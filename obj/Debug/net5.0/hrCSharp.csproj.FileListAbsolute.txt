@@ -1,0 +1,16 @@
+/home/nati/Desktop/hrCSharp/bin/Debug/net5.0/hrCSharp
+/home/nati/Desktop/hrCSharp/bin/Debug/net5.0/hrCSharp.deps.json
+/home/nati/Desktop/hrCSharp/bin/Debug/net5.0/hrCSharp.runtimeconfig.json
+/home/nati/Desktop/hrCSharp/bin/Debug/net5.0/hrCSharp.runtimeconfig.dev.json
+/home/nati/Desktop/hrCSharp/bin/Debug/net5.0/hrCSharp.dll
+/home/nati/Desktop/hrCSharp/bin/Debug/net5.0/ref/hrCSharp.dll
+/home/nati/Desktop/hrCSharp/bin/Debug/net5.0/hrCSharp.pdb
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/hrCSharp.csproj.AssemblyReference.cache
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/hrCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/hrCSharp.AssemblyInfoInputs.cache
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/hrCSharp.AssemblyInfo.cs
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/hrCSharp.csproj.CoreCompileInputs.cache
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/hrCSharp.dll
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/ref/hrCSharp.dll
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/hrCSharp.pdb
+/home/nati/Desktop/hrCSharp/obj/Debug/net5.0/hrCSharp.genruntimeconfig.cache
